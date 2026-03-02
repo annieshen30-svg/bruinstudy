@@ -1,1 +1,1 @@
-# bruinstudy
+# BruinStudy
